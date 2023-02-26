@@ -11,7 +11,7 @@
           <li>Isi kolom di sebelah kanan dengan mendaftar bukti yang Anda miliki untuk menunjukkan bahwa Anda melakukan tugas-tugas ini</li>
         </ol>
       </div>
-      <table class="table table-bordered mt-4">
+      <table class="table table-bordered mt-4 table-asesmen-mandiri">
         <thead>
           <tr>
             <th scope="row">#</th>
@@ -65,7 +65,7 @@
                 <br>
               </div>
             </td>
-            <td rowspan="2">
+            <td>
               <input type="checkbox"> KTP </br>
               <input type="checkbox"> Ijazah </br>
               <input type="checkbox"> Bukti Pendidikan </br>
@@ -96,6 +96,13 @@
                 <input class="form-check-input k" name="q1.1" type="radio" value="BK">
                 <br>
               </div>
+            </td>
+            <td>
+              <input type="checkbox"> KTP </br>
+              <input type="checkbox"> Ijazah </br>
+              <input type="checkbox"> Bukti Pendidikan </br>
+              <input type="checkbox"> Bukti Pelatihan </br>
+              <input type="checkbox"> Bukti pengalaman Kerja </br>
             </td>
           </tr>
           <!-- end tr 1 -->
@@ -128,7 +135,7 @@
                 <br>
               </div>
             </td>
-            <td rowspan="2">
+            <td>
               <input type="checkbox"> KTP </br>
               <input type="checkbox"> Ijazah </br>
               <input type="checkbox"> Bukti Pendidikan </br>
@@ -163,6 +170,13 @@
                 <br>
               </div>
             </td>
+            <td>
+              <input type="checkbox"> KTP </br>
+              <input type="checkbox"> Ijazah </br>
+              <input type="checkbox"> Bukti Pendidikan </br>
+              <input type="checkbox"> Bukti Pelatihan </br>
+              <input type="checkbox"> Bukti pengalaman Kerja </br>
+            </td>
           </tr>
           <!-- end tr 2 -->
           <!-- tr 3 -->
@@ -192,7 +206,7 @@
                 <br>
               </div>
             </td>
-            <td rowspan="2">
+            <td>
               <input type="checkbox"> KTP </br>
               <input type="checkbox"> Ijazah </br>
               <input type="checkbox"> Bukti Pendidikan </br>
@@ -224,6 +238,13 @@
                 <br>
               </div>
             </td>
+            <td>
+              <input type="checkbox"> KTP </br>
+              <input type="checkbox"> Ijazah </br>
+              <input type="checkbox"> Bukti Pendidikan </br>
+              <input type="checkbox"> Bukti Pelatihan </br>
+              <input type="checkbox"> Bukti pengalaman Kerja </br>
+            </td>
           </tr>
           <!-- end tr 3 -->
           <!-- tr 4 -->
@@ -254,7 +275,7 @@
                 <br>
               </div>
             </td>
-            <td rowspan="2">
+            <td>
               <input type="checkbox"> KTP </br>
               <input type="checkbox"> Ijazah </br>
               <input type="checkbox"> Bukti Pendidikan </br>
@@ -286,6 +307,13 @@
                 <br>
               </div>
             </td>
+            <td>
+              <input type="checkbox"> KTP </br>
+              <input type="checkbox"> Ijazah </br>
+              <input type="checkbox"> Bukti Pendidikan </br>
+              <input type="checkbox"> Bukti Pelatihan </br>
+              <input type="checkbox"> Bukti pengalaman Kerja </br>
+            </td>
           </tr>
           <!-- end tr 4 -->
           <!-- tr 5 -->
@@ -316,7 +344,7 @@
                 <br>
               </div>
             </td>
-            <td rowspan="6">
+            <td>
               <input type="checkbox"> KTP </br>
               <input type="checkbox"> Ijazah </br>
               <input type="checkbox"> Bukti Pendidikan </br>
@@ -348,6 +376,13 @@
                 <br>
               </div>
             </td>
+            <td>
+              <input type="checkbox"> KTP </br>
+              <input type="checkbox"> Ijazah </br>
+              <input type="checkbox"> Bukti Pendidikan </br>
+              <input type="checkbox"> Bukti Pelatihan </br>
+              <input type="checkbox"> Bukti pengalaman Kerja </br>
+            </td>
           </tr>
           <tr>
             <td>
@@ -374,6 +409,13 @@
                 <input class="form-check-input k" name="q4.2" type="radio" value="BK">
                 <br>
               </div>
+            </td>
+            <td>
+              <input type="checkbox"> KTP </br>
+              <input type="checkbox"> Ijazah </br>
+              <input type="checkbox"> Bukti Pendidikan </br>
+              <input type="checkbox"> Bukti Pelatihan </br>
+              <input type="checkbox"> Bukti pengalaman Kerja </br>
             </td>
           </tr>
           <tr>
@@ -402,6 +444,13 @@
                 <br>
               </div>
             </td>
+            <td>
+              <input type="checkbox"> KTP </br>
+              <input type="checkbox"> Ijazah </br>
+              <input type="checkbox"> Bukti Pendidikan </br>
+              <input type="checkbox"> Bukti Pelatihan </br>
+              <input type="checkbox"> Bukti pengalaman Kerja </br>
+            </td>
           </tr>
           <tr>
             <td>
@@ -427,6 +476,13 @@
                 <br>
               </div>
             </td>
+            <td>
+              <input type="checkbox"> KTP </br>
+              <input type="checkbox"> Ijazah </br>
+              <input type="checkbox"> Bukti Pendidikan </br>
+              <input type="checkbox"> Bukti Pelatihan </br>
+              <input type="checkbox"> Bukti pengalaman Kerja </br>
+            </td>
           </tr>
           <tr>
             <td>
@@ -451,6 +507,13 @@
                 <input class="form-check-input k" name="q4.5" type="radio" value="BK">
                 <br>
               </div>
+            </td>
+            <td>
+              <input type="checkbox"> KTP </br>
+              <input type="checkbox"> Ijazah </br>
+              <input type="checkbox"> Bukti Pendidikan </br>
+              <input type="checkbox"> Bukti Pelatihan </br>
+              <input type="checkbox"> Bukti pengalaman Kerja </br>
             </td>
           </tr>
           <!-- end tr 5-->
@@ -482,7 +545,7 @@
                 <br>
               </div>
             </td>
-            <td rowspan="3">
+            <td>
               <input type="checkbox"> KTP </br>
               <input type="checkbox"> Ijazah </br>
               <input type="checkbox"> Bukti Pendidikan </br>
@@ -515,6 +578,13 @@
                 <br>
               </div>
             </td>
+            <td>
+              <input type="checkbox"> KTP </br>
+              <input type="checkbox"> Ijazah </br>
+              <input type="checkbox"> Bukti Pendidikan </br>
+              <input type="checkbox"> Bukti Pelatihan </br>
+              <input type="checkbox"> Bukti pengalaman Kerja </br>
+            </td>
           </tr>
           <tr>
             <td>
@@ -539,6 +609,13 @@
                 <input class="form-check-input k" name="q6.2" type="radio" value="BK">
                 <br>
               </div>
+            </td>
+            <td>
+              <input type="checkbox"> KTP </br>
+              <input type="checkbox"> Ijazah </br>
+              <input type="checkbox"> Bukti Pendidikan </br>
+              <input type="checkbox"> Bukti Pelatihan </br>
+              <input type="checkbox"> Bukti pengalaman Kerja </br>
             </td>
           </tr>
           <!-- end tr 6 -->
@@ -571,7 +648,7 @@
                 <br>
               </div>
             </td>
-            <td rowspan="4">
+            <td>
               <input type="checkbox"> KTP </br>
               <input type="checkbox"> Ijazah </br>
               <input type="checkbox"> Bukti Pendidikan </br>
@@ -605,6 +682,13 @@
                 <br>
               </div>
             </td>
+            <td>
+              <input type="checkbox"> KTP </br>
+              <input type="checkbox"> Ijazah </br>
+              <input type="checkbox"> Bukti Pendidikan </br>
+              <input type="checkbox"> Bukti Pelatihan </br>
+              <input type="checkbox"> Bukti pengalaman Kerja </br>
+            </td>
           </tr>
           <tr>
             <td>
@@ -631,6 +715,13 @@
                 <br>
               </div>
             </td>
+            <td>
+              <input type="checkbox"> KTP </br>
+              <input type="checkbox"> Ijazah </br>
+              <input type="checkbox"> Bukti Pendidikan </br>
+              <input type="checkbox"> Bukti Pelatihan </br>
+              <input type="checkbox"> Bukti pengalaman Kerja </br>
+            </td>
           </tr>
           <tr>
             <td>
@@ -655,6 +746,13 @@
                 <input class="form-check-input k" name="q7.3" type="radio" value="BK">
                 <br>
               </div>
+            </td>
+            <td>
+              <input type="checkbox"> KTP </br>
+              <input type="checkbox"> Ijazah </br>
+              <input type="checkbox"> Bukti Pendidikan </br>
+              <input type="checkbox"> Bukti Pelatihan </br>
+              <input type="checkbox"> Bukti pengalaman Kerja </br>
             </td>
           </tr>
           <!-- end tr 7 -->
@@ -685,7 +783,7 @@
                 <br>
               </div>
             </td>
-            <td rowspan="3">
+            <td>
               <input type="checkbox"> KTP </br>
               <input type="checkbox"> Ijazah </br>
               <input type="checkbox"> Bukti Pendidikan </br>
@@ -719,6 +817,13 @@
                 <br>
               </div>
             </td>
+            <td>
+              <input type="checkbox"> KTP </br>
+              <input type="checkbox"> Ijazah </br>
+              <input type="checkbox"> Bukti Pendidikan </br>
+              <input type="checkbox"> Bukti Pelatihan </br>
+              <input type="checkbox"> Bukti pengalaman Kerja </br>
+            </td>
           </tr>
           <tr>
             <td>
@@ -743,6 +848,13 @@
                 <input class="form-check-input k" name="q8.2" type="radio" value="BK">
                 <br>
               </div>
+            </td>
+            <td>
+              <input type="checkbox"> KTP </br>
+              <input type="checkbox"> Ijazah </br>
+              <input type="checkbox"> Bukti Pendidikan </br>
+              <input type="checkbox"> Bukti Pelatihan </br>
+              <input type="checkbox"> Bukti pengalaman Kerja </br>
             </td>
           </tr>
           <!-- end tr 8 -->
