@@ -10,6 +10,9 @@ body{
 i {
 	margin-right: 10px;
 }
+.table-asesmen-mandiri ul {
+  padding-left: 20px;
+}
 
 /*------------------------*/
 input:focus,
